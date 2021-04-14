@@ -27,5 +27,12 @@ public class SeleniumTest {
 	public void elementsaddbyamerican()
 	{
 		System.out.println("elementsaddedbyamerican");
+		
+	}
+	@Test
+	public void elementsaddbyvinod()
+	{
+		System.out.println("elementsaddedbyvinod");
+		
 	}
 }
