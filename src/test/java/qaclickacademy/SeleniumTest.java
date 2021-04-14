@@ -22,5 +22,10 @@ public class SeleniumTest {
 	{
 		System.out.println("elementsUI12");
 	}
-
+	
+	@Test
+	public void elementsaddbyamerican()
+	{
+		System.out.println("elementsaddedbyamerican");
+	}
 }
