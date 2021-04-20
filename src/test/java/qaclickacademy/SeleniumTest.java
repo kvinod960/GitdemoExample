@@ -35,4 +35,10 @@ public class SeleniumTest {
 		System.out.println("elementsaddedbyvinodin developer branch 2");
 		
 	}
+	@Test
+	public void elementsaddpullrequest2()
+	{
+		System.out.println("elementsaddedbyvinodin pull request 2");
+		
+	}
 }
